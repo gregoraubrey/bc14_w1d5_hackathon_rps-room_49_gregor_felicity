@@ -1,3 +1,7 @@
+**This was the first hackathon we did at School of Code on 20230317. See the instructions we were given below.**
+
+
+
 # Rock, Paper, Scissors!
 
 Work through the tasks below, which function as tickets, to build and refine your own rock, paper, scissors game where a player plays against the computer.
